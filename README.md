@@ -7,11 +7,10 @@ b. Find and Replace to make the data easier to read for the client
 i. Marital Status Column
 ii. Gender Column
 
-Fixed spelling mistakes in other columns
-
-Needed an age bracket.
-Created age brackets column
-Used nested IF statements to sort the ages based on the Age column
+2. Fixed spelling mistakes in other columns
+3. Needed an age bracket.
+4. Created age brackets column
+a. Used nested IF statements to sort the ages based on the Age column
 
 Pivot Tables:
 1. Average income of someone who either bought or hasn't bought.
